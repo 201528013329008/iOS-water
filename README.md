@@ -5,4 +5,4 @@ iOS面试必备 http://www.cocoachina.com/ios/20160323/15770.html
 
 iOS－瀑布流 http://www.cocoachina.com/ios/20160407/15872.html
 
-众多资源  http://blog.csdn.net/devday/article/details/6664970
+iOS学习资源  http://blog.csdn.net/devday/article/details/6664970
