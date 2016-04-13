@@ -12,3 +12,5 @@ iOS资料整理  http://www.cocoachina.com/ios/20150111/10894.html
 iOS开源pro http://www.open-open.com/lib/view/open1428646127375.html
 
 firebase chat http://blog.csdn.net/kmyhy/article/details/51098013
+
+wilddog sdk   https://z.wilddog.com/video
