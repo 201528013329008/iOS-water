@@ -20,3 +20,5 @@ iOS内存管理  http://www.cocoachina.com/ios/20160411/15892.html
 iOS面试学习 http://www.cocoachina.com/ios/20160414/15918.html
 
 iOS 谈MVC   http://www.cocoachina.com/ios/20160413/15911.html
+
+iOS 架构模式 http://www.cocoachina.com/ios/20160108/14916.html
