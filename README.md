@@ -24,3 +24,5 @@ iOS 谈MVC   http://www.cocoachina.com/ios/20160413/15911.html
 iOS 架构模式 http://www.cocoachina.com/ios/20160108/14916.html
 
 viewcontroller http://blog.csdn.net/xyz_lmn/article/details/9022399
+
+IM项目学习 http://edu.csdn.net/course/detail/1161/19643?auto_start=1
