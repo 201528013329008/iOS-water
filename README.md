@@ -28,3 +28,5 @@ viewcontroller http://blog.csdn.net/xyz_lmn/article/details/9022399
 oc与swift实现混编 http://www.jianshu.com/p/28b05cca9271/comments/1198449
 
 IM项目学习 http://edu.csdn.net/course/detail/1161/19643?auto_start=1
+
+cocoapods安装 http://code4app.com/article/cocoapods-install-usage
