@@ -32,3 +32,5 @@ IM项目学习 http://edu.csdn.net/course/detail/1161/19643?auto_start=1
 cocoapods安装 http://code4app.com/article/cocoapods-install-usage
 
 RongCloud介绍 https://github.com/zhengwenming/RongCloud-SDK-description
+
+RCIM demo  https://github.com/zhengwenming/RCIM
