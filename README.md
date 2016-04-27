@@ -42,3 +42,8 @@ Swift学习资源 http://www.tuicool.com/articles/qmyEvee
 Swift学习资源 http://www.mobiletrain.org/swift/
 
 OC代码迁移 http://www.cocoachina.com/swift/20150707/12441.html
+
+iOS学习 http://www.lai18.com
+
+ios 游戏 http://www.lai18.com/content/742197.html
+
