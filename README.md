@@ -54,3 +54,5 @@ swfit2.2 中文pdf
 ruby与swift区别（run） https://ruby-china.org/topics/19735
 
 11个网站iOS http://www.devstore.cn/new/newInfo/5031.html
+
+iOS 学习 http://bbs.51cto.com/viewthread.php?tid=1099956&page=1&authorid=8899635
