@@ -67,3 +67,5 @@ iOS网络层架构 http://www.cocoachina.com/ios/20160509/16146.html
 快速集成App中顶部标题滚动条http://www.cocoachina.com/ios/20160602/16565.html
 
 xcode keyboard shortcut http://www.cocoachina.com/ios/20160708/16989.html
+
+app上架 http://www.cocoachina.com/appstore/20160708/16990.html
