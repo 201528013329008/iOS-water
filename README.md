@@ -71,3 +71,4 @@ xcode keyboard shortcut http://www.cocoachina.com/ios/20160708/16989.html
 app上架 http://www.cocoachina.com/appstore/20160708/16990.html
 
 OC  http://www.jianshu.com/p/7f3c78dcd3b5
+音频播放时存储 http://www.jianshu.com/p/4f586d63a532
