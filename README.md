@@ -74,3 +74,6 @@ OC  http://www.jianshu.com/p/7f3c78dcd3b5
 音频播放时存储 http://www.jianshu.com/p/4f586d63a532
 
 Run-Loop   http://oncenote.com/2015/03/22/Threading-Run-Loop/
+id、NSObject *、id<NSObject>、instancetype的区别   http://blog.csdn.net/colorapp/article/details/45317347
+OC 新特性 http://blog.csdn.net/colorapp/article/details/49391209
+iOS代码实践总结 http://blog.csdn.net/colorapp/article/details/48597267
