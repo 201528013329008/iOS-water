@@ -77,3 +77,5 @@ Run-Loop   http://oncenote.com/2015/03/22/Threading-Run-Loop/
 id、NSObject *、id<NSObject>、instancetype的区别   http://blog.csdn.net/colorapp/article/details/45317347
 OC 新特性 http://blog.csdn.net/colorapp/article/details/49391209
 iOS代码实践总结 http://blog.csdn.net/colorapp/article/details/48597267
+
+socket(掌握环信的前提,也是即时通讯的底层的实现)http://www.jianshu.com/p/15007a73e51d
