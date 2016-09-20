@@ -79,3 +79,5 @@ OC 新特性 http://blog.csdn.net/colorapp/article/details/49391209
 iOS代码实践总结 http://blog.csdn.net/colorapp/article/details/48597267
 
 socket(掌握环信的前提,也是即时通讯的底层的实现)http://www.jianshu.com/p/15007a73e51d
+一次理解iOS证书配置流程，再也不用查教程 http://www.jianshu.com/p/9f847fbc5d5f
+
