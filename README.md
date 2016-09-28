@@ -81,3 +81,7 @@ iOS代码实践总结 http://blog.csdn.net/colorapp/article/details/48597267
 socket(掌握环信的前提,也是即时通讯的底层的实现)http://www.jianshu.com/p/15007a73e51d
 一次理解iOS证书配置流程，再也不用查教程 http://www.jianshu.com/p/9f847fbc5d5f
 
+RunLoop入门 看我就够了 http://www.jianshu.com/p/2d3c8e084205
+
+RunLoop已入门？不来应用一下？ http://www.jianshu.com/p/c0a550d2ac97
+
