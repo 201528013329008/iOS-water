@@ -91,3 +91,8 @@ RunLoop入门 看我就够了 http://www.jianshu.com/p/2d3c8e084205
 
 RunLoop已入门？不来应用一下？ http://www.jianshu.com/p/c0a550d2ac97
 
+COre data 入门  http://www.jianshu.com/p/337872d95727
+
+
+   COre data 入门http://blog.csdn.net/q199109106q/article/details/8563438/
+
