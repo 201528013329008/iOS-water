@@ -79,6 +79,8 @@ id、NSObject *、id<NSObject>、instancetype的区别   http://blog.csdn.net/co
 
 OC 新特性 http://blog.csdn.net/colorapp/article/details/49391209
 
+CoreData入门 http://blog.csdn.net/q199109106q/article/details/8563438/
+
 iOS代码实践总结 http://blog.csdn.net/colorapp/article/details/48597267
 
 socket(掌握环信的前提,也是即时通讯的底层的实现)http://www.jianshu.com/p/15007a73e51d
