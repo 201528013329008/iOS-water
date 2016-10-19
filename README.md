@@ -96,3 +96,6 @@ COre data 入门  http://www.jianshu.com/p/337872d95727
 
    COre data 入门http://blog.csdn.net/q199109106q/article/details/8563438/
 
+
+浅谈 iOS Notification  http://www.jianshu.com/p/8832f019c17f
+
