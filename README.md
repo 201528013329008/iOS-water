@@ -105,3 +105,5 @@ COre data 入门  http://www.jianshu.com/p/337872d95727
 block详细  http://www.cocoachina.com/ios/20150109/10891.html
 
 block  https://my.oschina.net/leejan97/blog/268536
+
+block https://my.oschina.net/teana/blog/512517
