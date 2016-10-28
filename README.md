@@ -107,3 +107,6 @@ block详细  http://www.cocoachina.com/ios/20150109/10891.html
 block  https://my.oschina.net/leejan97/blog/268536
 
 block https://my.oschina.net/teana/blog/512517
+
+
+Xcode 8带来的新特性和坑  http://www.cocoachina.com/ios/20161024/17830.html
