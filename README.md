@@ -110,3 +110,7 @@ block https://my.oschina.net/teana/blog/512517
 
 
 Xcode 8带来的新特性和坑  http://www.cocoachina.com/ios/20161024/17830.html
+
+
+AFNetWorking是如何进行数据缓存的--之AFImageCache & NSURLCache 详解 http://www.cocoachina.com/ios/20161101/17906.html
+
