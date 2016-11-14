@@ -116,3 +116,7 @@ AFNetWorking是如何进行数据缓存的--之AFImageCache & NSURLCache 详解 
 
 
 cocoapods各种慢  http://hyichao.github.io/ios/2015/12/06/cocoapods-slow.html
+
+
+NAT64网络下合成IPv6地址   http://www.cocoachina.com/
+
