@@ -34,6 +34,7 @@ cocoapods安装 http://code4app.com/article/cocoapods-install-usage
 
 RongCloud介绍 https://github.com/zhengwenming/RongCloud-SDK-description
 
+
 RCIM demo  https://github.com/zhengwenming/RCIM
 
 用Swift重构时须知 http://c.biancheng.net/cpp/html/2289.html
@@ -119,4 +120,7 @@ cocoapods各种慢  http://hyichao.github.io/ios/2015/12/06/cocoapods-slow.html
 
 
 NAT64网络下合成IPv6地址   http://www.cocoachina.com/
+
+
+iOS 全面支持 webp格式图片  http://www.cocoachina.com/ios/20161115/18082.html
 
