@@ -109,25 +109,24 @@
 
  ##  iOS学习资源  http://blog.csdn.net/devday/article/details/6664970
 
- ##  iOS资料整理  http://www.cocoachina.com/ios/20150111/10894.html
+##  iOS资料整理  http://www.cocoachina.com/ios/20150111/10894.html
 
- ##  iOS开源pro http://www.open-open.com/lib/view/open1428646127375.html
+##  iOS开源pro http://www.open-open.com/lib/view/open1428646127375.html
 
- ##  firebase chat http://blog.csdn.net/kmyhy/article/details/51098013
+##  firebase chat http://blog.csdn.net/kmyhy/article/details/51098013
 
- ##  wilddog sdk   https://z.wilddog.com/video
+##  wilddog sdk   https://z.wilddog.com/video
 
- ##  iOS内存管理  http://www.cocoachina.com/ios/20160411/15892.html
+##  iOS内存管理  http://www.cocoachina.com/ios/20160411/15892.html
 
- ##  iOS面试学习 http://www.cocoachina.com/ios/20160414/15918.html
+##  iOS面试学习 http://www.cocoachina.com/ios/20160414/15918.html
 
- ##  iOS 谈MVC   http://www.cocoachina.com/ios/20160413/15911.html
+##  iOS 谈MVC   http://www.cocoachina.com/ios/20160413/15911.html
 
- ##  iOS 架构模式 http://www.cocoachina.com/ios/20160108/14916.html
+##  iOS 架构模式 http://www.cocoachina.com/ios/20160108/14916.html
+##  viewcontroller http://blog.csdn.net/xyz_lmn/article/details/9022399
 
- ##  viewcontroller http://blog.csdn.net/xyz_lmn/article/details/9022399
 
+ ## oc与swift实现混编 http://www.jianshu.com/p/28b05cca9271/comments/1198449
 
- ##  oc与swift实现混编 http://www.jianshu.com/p/28b05cca9271/comments/1198449
-
-## iOS Provisioning Profile(Certificate)与Code Signing详解http://blog.csdn.net/phunxm/article/details/42685597
+## iOS Provisioning Profile(Certificate)与Code Signing详解 http://blog.csdn.net/phunxm/article/details/42685597
