@@ -130,3 +130,4 @@
 
  ##  oc与swift实现混编 http://www.jianshu.com/p/28b05cca9271/comments/1198449
 
+## iOS Provisioning Profile(Certificate)与Code Signing详解http://blog.csdn.net/phunxm/article/details/42685597
