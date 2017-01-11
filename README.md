@@ -131,3 +131,5 @@
 
 ## iOS Provisioning Profile(Certificate)与Code Signing详解 http://blog.csdn.net/phunxm/article/details/42685597
 ## iOS学习笔记12 scrollView部分代理及控件缩放简介 http://www.jianshu.com/p/a8bc65090bb6  http://blog.csdn.net/zhuanghaipeng/article/details/48894535
+
+## HTTPS http://blog.csdn.net/lvxiangan/article/details/42147711
