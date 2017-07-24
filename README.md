@@ -1,4 +1,4 @@
-# 第一天入坑iOS
+# 一些学习资源
 
 
 ##   IM项目学习 http://edu.csdn.net/course/detail/1161/19643?auto_start=1
